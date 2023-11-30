@@ -1,0 +1,15 @@
+#img {
+    height: 120px;
+    width: 200px;
+    padding: 0;
+    margin: 0px;
+}
+
+.navbar{
+    background-color: #005457 !important;
+    padding: 5px;
+}
+
+.form-control:focus{
+    outline: #01a299 !important;
+}
